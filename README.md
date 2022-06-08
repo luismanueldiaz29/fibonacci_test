@@ -49,3 +49,15 @@ SOFTWARE.
 What is Python unit test? Python Unit Test is a built-in testing framework for testing Python code. It has a test runner, which allows us to run the tests without much effort. So, we can use the unit test module to test without using the third party modules.
 </p>
 
+1. Creating the project in python
+<p align="center"> <img src="https://github.com/luismanueldiaz29/fibonacci_test/blob/master/assets/creacion_proyecto_py.png"/></p> 
+
+2. Creating the method with which the sequence is calculated
+<br><br>
+
+<p align="center"> <img src="https://github.com/luismanueldiaz29/fibonacci_test/blob/master/assets/creat_primer_metodo_py.png"/></p> 
+
+3. Execution of the tests
+<br><br>
+
+<p align="center"> <img src="https://github.com/luismanueldiaz29/fibonacci_test/blob/master/assets/ejecutar_pruebas_py.png"/></p> 

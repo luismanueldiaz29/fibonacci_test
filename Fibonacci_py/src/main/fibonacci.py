@@ -1,0 +1,4 @@
+class Serie:
+    fib = list()
+
+        

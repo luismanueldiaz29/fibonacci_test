@@ -29,7 +29,7 @@ SOFTWARE.
 <br><br>
 
 1.Creating the project in c#
-<p align="center"> <img src="https://github.com/luismanueldiaz29/fibonacci_test/assests/crear_proyecto_c#.png" width="350"/></p> 
+<p align="center"> <img src="[https://github.com/luismanueldiaz29/fibonacci_test/assests/crear_proyecto_c#.png](https://github.com/luismanueldiaz29/fibonacci_test/blob/master/assets/crear_primer_metodo_c%23.png)" width="350"/></p> 
 
 2.The app doesn’t need any permission. So just press Install
 <br><br>

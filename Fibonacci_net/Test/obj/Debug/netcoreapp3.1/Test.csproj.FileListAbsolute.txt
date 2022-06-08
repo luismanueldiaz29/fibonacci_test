@@ -1,0 +1,4 @@
+C:\Users\luism\OneDrive\Escritorio\Test_fibonacci\Fibonacci_net\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\luism\OneDrive\Escritorio\Test_fibonacci\Fibonacci_net\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\luism\OneDrive\Escritorio\Test_fibonacci\Fibonacci_net\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\luism\OneDrive\Escritorio\Test_fibonacci\Fibonacci_net\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache

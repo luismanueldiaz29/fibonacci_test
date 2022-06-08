@@ -45,9 +45,8 @@ namespace Test
             Assert.AreEqual(fib.Length, serieFibonacci.Length);
         }
 
-
         [Test]
-        public void Test_check_the_fibonacci_sequence_is_incorrect()
+        public void Test_check_the_fibonacci_sequence_correct()
         {
             int[] fib = serie.CalculateSeries(10);
             Assert.AreEqual(0, serieFibonacci[0]);

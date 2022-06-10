@@ -5,4 +5,3 @@ class Serie:
         for i in range(2, int(num)):
             fib.append(fib[i - 1] + fib[i - 2])
         return fib;
-        

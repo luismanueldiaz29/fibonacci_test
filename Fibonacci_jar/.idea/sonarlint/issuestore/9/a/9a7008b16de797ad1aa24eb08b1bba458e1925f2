@@ -1,0 +1,12 @@
+
+
+java:S4144"zUpdate this method so that its implementation is not identical to "test_check_the_fibonacci_length_is_correct" on line 22.(¥Ô¨¯
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¡ì¬ûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ô¨¯
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ñûÚ
+h	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰±±Œüÿÿÿÿ
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¤¼éüÿÿÿÿ
+b	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åå*
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å ¾Ðÿÿÿÿÿ
+F
+java:S5960"+Remove this assertion from production code.(î¥Åøúÿÿÿÿ

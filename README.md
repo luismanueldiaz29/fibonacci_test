@@ -43,6 +43,27 @@ SOFTWARE.
 
 <p align="center"> <img src="" width="350"/></p> 
 
+
+# Evidence using Java
+
+<p>
+For this Junit was used, what is JUnit ? It is an Open Source Framework for the automation of tests (both unitary and integration) in Software projects using the Java language. The framework provides the user with tools, classes and methods that facilitate the task of performing tests on their system and thus ensure its consistency and functionality.
+</p>
+
+1. Creating the project in Java
+
+<p align="center"> <img src="https://github.com/luismanueldiaz29/fibonacci_test/blob/master/assets/creacion_proyecto_jar.png"/></p> 
+
+2. Creating the method with which the sequence is calculated
+<br><br>
+
+<p align="center"> <img src="https://github.com/luismanueldiaz29/fibonacci_test/blob/master/assets/creacion_primer_metodo.png"/></p> 
+
+3. Execution of the tests
+<br><br>
+
+<p align="center"> <img src="https://github.com/luismanueldiaz29/fibonacci_test/blob/master/assets/ejecutar%20pruebas_unitarias.png"/></p> 
+
 # Evidence using python
 
 <p>
